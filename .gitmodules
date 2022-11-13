@@ -1,0 +1,3 @@
+[submodule "arduino-influxdb"]
+	path = arduino-influxdb
+	url = "git@github.com:pbutti/arduino-influxdb.git"
