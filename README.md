@@ -1,7 +1,7 @@
-#AutoWatering
+# AutoWatering
 
 
-#Connecting the relay
+# Connecting the relay
 
 ## Led Side
 On the led side you have 3 pins marked as "S" "+" and "-". 
