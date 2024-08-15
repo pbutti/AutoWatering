@@ -19,3 +19,12 @@ GPIO ===> S  |_____| ===> FREE
 5V   ===> +  |Relay| ===> V
 GND  ===> -  |_____| ===> PUMP +DC
 ```
+
+
+# Activating the relay.
+
+Current steering pins: 6 and 7
+
+python serialWriter.py -d /dev/ttyACM0
+
+Then 1 to activate the relay, or 0 to turn it off
